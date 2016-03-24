@@ -1,2 +1,2 @@
 # first-repo
-Coursera Data Science course
+Coursera - The Data Scientist's Toolbox - Week 2
